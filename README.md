@@ -7,11 +7,13 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS Excel to im
 
 ## Questions(KPI’S) 
 •	Number of Patients:
-Count the total number of patients visiting the ER each day.
-Show a daily trend with an area sparkline to spot patterns like busy days or seasonal trends.
+- Count the total number of patients visiting the ER each day.
+- Show a daily trend with an area sparkline to spot patterns like busy days or seasonal trends.
+
 •	Average Wait Time:
-Find the average time patients wait to see a medical professional.
-Use an area sparkline to track daily changes and highlight days with longer wait times that might need improvements.
+- Find the average time patients wait to see a medical professional.
+- Use an area sparkline to track daily changes and highlight days with longer wait times that might need improvements.
+  
 •	Patient Satisfaction Score:
-Check the average daily satisfaction score of patients to assess service quality.
-Use an area sparkline to show trends, spot drops in satisfaction, and link them to busy times or challenges.
+- Check the average daily satisfaction score of patients to assess service quality.
+- Use an area sparkline to show trends, spot drops in satisfaction, and link them to busy times or challenges.
