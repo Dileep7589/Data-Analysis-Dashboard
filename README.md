@@ -17,3 +17,6 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS Excel to im
 •	Patient Satisfaction Score:
 - Check the average daily satisfaction score of patients to assess service quality.
 - Use an area sparkline to show trends, spot drops in satisfaction, and link them to busy times or challenges.
+- 
+
+-	Dashboard Interaction <a href="https://github.com/Dileep7589/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-17%20050429.png"> View Dashboard</a>
