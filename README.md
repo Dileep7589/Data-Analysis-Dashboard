@@ -23,13 +23,13 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS Excel to im
 
  ## Process 
  
-  Understanding of Data (Like:- What should i do and what duplicate value,missing value and sort data)
-•	Data Connection (Import Data Using Power Query)
-•	Data Cleaning and Data Quality Check Using Power Query
-•	Creating Calendar Table using Power Query
-•	Data Modeling – Power Pivot
-•	Adding Required Columns (DAX Calculation in Power Pivot)
-•	Creating Pivots and Dashboard Lay outing
-•	Charts Development and Formatting
-•	Dashboard 
-•	Insights Generation
+- Understanding of Data (Like:- What should i do and what duplicate value,missing value and sort data)
+- Data Connection (Import Data Using Power Query)
+- Creating Calendar Table using Power Query
+- Data Modeling – Power Pivot
+- Adding Required Columns (DAX Calculation in Power Pivot)
+- Creating Pivots and Dashboard Lay outing
+- Charts Development and Formatting
+- Dashboard 
+- Insights Generation
+	
