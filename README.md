@@ -36,4 +36,7 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS Excel to im
 Dashboard 
 ![Screenshot  050429](https://github.com/user-attachments/assets/e94409b2-fe67-4efe-b2c5-c3166325f4b9)
 
-	
+## Conclusion
+The hospital should focus on reducing patient wait times and improving service quality to enhance satisfaction levels.
+Analyzing peak patient visit times can help with better staff allocation and scheduling.
+Monitoring trends over time will provide better insights for decision-making and operational improvements.
