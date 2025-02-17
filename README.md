@@ -20,3 +20,15 @@ We need to create a Hospital Emergency Room Analysis Dashboard in MS Excel to im
 
   
 -	Dashboard Interaction <a href="https://github.com/Dileep7589/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-17%20050429.png"> View Dashboard</a>
+
+ ## Process 
+•	Understanding of Data
+•	Data Connection (Import Data Using Power Query)
+•	Data Cleaning and Data Quality Check Using Power Query
+•	Creating Calendar Table using Power Query
+•	Data Modeling – Power Pivot
+•	Adding Required Columns (DAX Calculation in Power Pivot)
+•	Creating Pivots and Dashboard Lay outing
+•	Charts Development and Formatting
+•	Dashboard / Report Development
+•	Insights Generation
